@@ -1,0 +1,27 @@
+a:link {
+  color: #393c39;text-decoration:none;
+}
+
+a:visited {
+  color: #393c39;text-decoration:none;
+}
+
+a:hover {
+  color: #42619c;text-decoration:none;
+}
+
+form {
+  margin-bottom:0; margin-top:0; padding:0;
+}
+
+table
+  font-size:9pt;
+}
+
+input,textarea,form {
+  font-size:9pt; font-family:"±¼¸²"; line-height:12pt;
+}
+
+body,td,select {
+  color : #333333; font-family:"±¼¸²"; font-size:9pt; line-height: 17pt;
+}
